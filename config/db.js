@@ -8,4 +8,4 @@ const connectDB = async () => {
    console.log(`MongoDB connected: ${conn.connection.host}`);
 }
 
-module.exports = connectDB; //ghyjui
+module.exports = connectDB; 
